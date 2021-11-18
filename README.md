@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @JorgeMeini
+- 👋 Hi, I’m Jorge Meini
+- I am an electronic and computer technician 
 - 👀 I’m interested in everything that is computer and electronic technology 
 - 🌱 I’m currently learning .everything that is computer and electronic technology 
 - 💞️ I’m looking to collaborate on .everything that is computer and electronic technology 
